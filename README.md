@@ -60,7 +60,7 @@
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 <br/>
 
-![snake gif](https://github.com/Aayushbasnet/Aayushbasnet/blob/output/github-contribution-grid-snake.gif)
+
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
