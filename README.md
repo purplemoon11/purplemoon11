@@ -2,7 +2,7 @@
 <h3 align="center">A passionate software developer from Nepal.</h3>
 	
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bickkysahani&color=blueviolet&style=flat">
+  <img src="https://komarev.com/ghpvc/?username=purplemoon11&color=blueviolet&style=flat">
 </p>
 
 - 🔭 I’m currently working as **a freelance fullstack python developer as well as freelance programming instructor**
